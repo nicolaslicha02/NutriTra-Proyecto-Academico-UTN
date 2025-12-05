@@ -78,5 +78,6 @@ La UI está construida con **Bootstrap 5** y **Bootstrap Icons**, buscando una i
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/nicolaslicha02/NutriTra.git
-cd NutriTra
+git clone https://github.com/nicolaslicha02/NutriTra-Proyecto-Academico-UTN.git
+cd NutriTra-Proyecto-Academico-UTN
+
