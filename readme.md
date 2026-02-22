@@ -1,6 +1,31 @@
 # NutriTra – Plataforma de seguimiento nutricional
 
-Proyecto académico desarrollado para la UTN – Facultad Regional La Plata.
+## Integrantes del grupo
+
+- Nicolás Licha
+- Valentina Blanco
+- Elisa Ramos
+
+## Roles y tareas realizadas
+
+**Nicolás Licha**
+- Diseño general del proyecto
+- Desarrollo del backend
+- Implementación de funcionalidades principales
+- Integración de base de datos
+- Estructura general del sistema
+
+**Valentina Blanco**
+- Colaboración en el diseño de la interfaz
+- Apoyo en pruebas de funcionalidades
+- Revisión de usabilidad
+
+**Elisa Ramos**
+- Apoyo en documentación del proyecto
+- Colaboración en la definición de requerimientos
+- Pruebas generales del sistema
+
+**Proyecto académico desarrollado para la UTN – Facultad Regional La Plata.**
 
 La aplicación permite registrar pacientes y llevar un control diario de las comidas
 para tener un seguimiento más claro del consumo de calorías.
